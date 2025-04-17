@@ -16,10 +16,21 @@ The Vehicle builder allows the user to choose their make, model and weight and t
 * [Questions](#questions)
 
 ## Installation
-npm i, npm i inquierer, npm i fs
+Right click on the intended folder, choose open an intergrated terminal, in the terminal choose the following
+
+git clone <Repo SSH key>
+
+then right click on the newly dowloaded folder, open an integrated terminal input the following commands
+
+npm i
+npm i inquierer
+npm i fs
 
 ## Usage
-Once installed, choose either, create a new vehicle or existing one. If you choose exisiting vehicle, there is a list of vehicles you may choose from. If you choose create a vehicle, you will be able to choose the make, model, color ect. and then test drive that vehicle
+Once installed, type
+npm start
+
+and choose either, create a new vehicle or existing one. If you choose exisiting vehicle, there is a list of vehicles you may choose from. If you choose create a vehicle, you will be able to choose the make, model, color ect. and then test drive that vehicle
 
 ## License
 
