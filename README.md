@@ -22,14 +22,18 @@ git clone <Repo SSH key>
 
 then right click on the newly dowloaded folder, open an integrated terminal input the following commands
 
+```bash
+cd Vehicle_Builder
 npm i
 npm i inquierer
 npm i fs
+```
 
 ## Usage
 Once installed, type
+```bash
 npm start
-
+```
 and choose either, create a new vehicle or existing one. If you choose exisiting vehicle, there is a list of vehicles you may choose from. If you choose create a vehicle, you will be able to choose the make, model, color ect. and then test drive that vehicle
 
 ## License
